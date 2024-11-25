@@ -52,3 +52,4 @@ else:
 print("Congrats You won:",amount)
 
 print("It was fun to play with you",name,"\nThank you!")
+print("\n See you soon ",name)
